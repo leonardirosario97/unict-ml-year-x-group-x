@@ -1,4 +1,4 @@
-# 🤖 unict-ml-year-x-group-xx
+# 🤖 unict-ml-year-x-group-x
 
 Benvenuti nel repository template per i progetti di Machine Learning del laboratorio.  
 Questo repository fornisce una struttura base per organizzare codice, dati e documentazione.
@@ -6,7 +6,7 @@ Questo repository fornisce una struttura base per organizzare codice, dati e doc
 ## 📂 Struttura del progetto
 
 ```
-unict-ml-year-x-group-xx/
+unict-ml-year-x-group-x/
 │
 ├── data/       # Dataset e file di dati
 │
@@ -44,16 +44,16 @@ Ogni gruppo deve partire dal **template** seguendo questi passaggi:
    - Creare un nuovo repository **privato** per il proprio gruppo  
    - Rinominare il repository usando la convenzione:  
      ```
-     ml-lab-year-x-group-xx
+     unict-ml-year-x-group-x
      ```
      dove:
-     - `year-x` indica l’anno o la coorte del corso  
-     - `group-xx` è il numero del gruppo
-    - Esempio:
+     - `year-x` indica l'anno del corso  
+     - `group-x` è il numero del gruppo
+     - Esempio:
         ```
-        ml-lab-year-25-group-01
+        unict-ml-year-25-group-01
         ```
-    - Aggiungere il docente come collaboratore
+    - **Aggiungere il docente come collaboratore**
 
 2. **Clonare il repository sul proprio computer**
 
