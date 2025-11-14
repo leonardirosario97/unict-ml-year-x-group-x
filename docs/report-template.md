@@ -1,12 +1,10 @@
 # 📃 Istruzioni per la relazione
 
-- Potete scrivere la relazione direttamente in questo repository usando **Markdown** (`report.md`)  
+- Potete scrivere la relazione direttamente usando **Markdown** (`report.md`)  
 - In alternativa, se preferite, potete consegnare un **PDF** (`report.pdf`)  
 - Il file della relazione va messo nella cartella `docs/` 
 - Tutti i file multimediali (immagini, video, GIF) devono essere inseriti nella cartella `media/` 
-
-**Nota sul conteggio delle parole:**  
-- La relazione dovrebbe avere massimo **5000-6000 parole**
+- **Nota sul conteggio delle parole**: La relazione dovrebbe avere massimo **5000-6000 parole**
 
 # Titolo del Progetto
 **Il mio fantastico progetto di machine learning**
@@ -68,7 +66,7 @@ In questa sezione viene descritta come è stata sviluppata la demo.
 - Idee per lavori futuri o estensioni
 
 ## Appendici
-Eventuali grafici aggiuntivi, tabelle estese, o analisi supplementari non incluse nel corpo principale.
+- Eventuali grafici aggiuntivi, tabelle estese, o analisi supplementari non incluse nel corpo principale.
 
 ## Riferimenti
 - Paper scientifici, articoli, librerie e tool utilizzati
