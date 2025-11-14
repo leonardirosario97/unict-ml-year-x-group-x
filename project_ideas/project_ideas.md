@@ -1,6 +1,6 @@
 # 💡 Idee per Progetti di Machine Learning
 
-**Nota Importante:** Ecco alcuni dataset di esempio disponibili per i vostri progetti. Queste sono solo idee di partenza. Ogni gruppo può esplorare autonomamente a cercare nuovi dataset direttamente su [Kaggle](https://www.kaggle.com).
+**Nota Importante:** Ecco alcuni dataset di esempio disponibili per i vostri progetti. Queste sono solo idee di partenza. Ogni gruppo può esplorare autonomamente e cercare nuovi dataset direttamente su [Kaggle](https://www.kaggle.com).
 
 ---
 
