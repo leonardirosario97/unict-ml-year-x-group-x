@@ -23,6 +23,11 @@ unict-ml-year-x-group-xx/
 └── README.md   # Questo file
 ```
 
+## Documentazione
+
+Per la stesura del report finale, utilizzare il template fornito in [`docs/report-template.md`](docs/report-template.md).  
+Il template contiene le sezioni standard richieste per documentare il progetto.
+
 ## Come usare il repository
 
 Ogni gruppo deve partire dal **template** seguendo questi passaggi:
