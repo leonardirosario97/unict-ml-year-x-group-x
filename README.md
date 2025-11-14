@@ -1,4 +1,4 @@
-# unict-ml-year-x-group-xx
+# 🤖 unict-ml-year-x-group-xx
 
 Benvenuti nel repository template per i progetti di Machine Learning del laboratorio.  
 Questo repository fornisce una struttura base per organizzare codice, dati e documentazione.
@@ -18,9 +18,9 @@ unict-ml-year-x-group-xx/
 │
 ├── project_ideas/  # Idee e proposte di progetti
 │
-├── src/        # Codice sorgente
-│
 ├── results/    # Risultati, log, metriche, modelli
+│
+├── src/        # Codice sorgente
 │
 └── README.md   # Questo file
 ```
