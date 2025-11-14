@@ -16,6 +16,8 @@ unict-ml-year-x-group-xx/
 │
 ├── notebooks/  # Jupyter notebooks per analisi ed esperimenti
 │
+├── project_ideas/  # Idee e proposte di progetti
+│
 ├── src/        # Codice sorgente
 │
 ├── results/    # Risultati, log, metriche, modelli
