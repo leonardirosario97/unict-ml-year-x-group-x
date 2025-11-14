@@ -1,4 +1,4 @@
-# Istruzioni per la relazione
+# 📃 Istruzioni per la relazione
 
 - Potete scrivere la relazione direttamente in questo repository usando **Markdown** (`report.md`)  
 - In alternativa, se preferite, potete consegnare un **PDF** (`report.pdf`)  
